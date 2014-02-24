@@ -109,4 +109,11 @@
       background: #0088cc;
     }
   }
+  &[data-provider=google_oauth2] {
+    background: #069;
+    border-color: #00547E;
+    &:hover {
+      background: #0088cc;
+    }
+  }
 }
